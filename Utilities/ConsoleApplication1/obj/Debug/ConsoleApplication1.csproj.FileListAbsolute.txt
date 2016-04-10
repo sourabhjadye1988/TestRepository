@@ -1,0 +1,9 @@
+D:\TestSolution\Utilities\ConsoleApplication1\bin\Debug\Utility.dll
+D:\TestSolution\Utilities\ConsoleApplication1\bin\Debug\log4net.dll
+D:\TestSolution\Utilities\ConsoleApplication1\bin\Debug\Utility.pdb
+D:\TestSolution\Utilities\ConsoleApplication1\bin\Debug\Log4netTest.exe.config
+D:\TestSolution\Utilities\ConsoleApplication1\bin\Debug\Log4netTest.exe
+D:\TestSolution\Utilities\ConsoleApplication1\bin\Debug\Log4netTest.pdb
+D:\TestSolution\Utilities\ConsoleApplication1\obj\Debug\Log4netTest.exe
+D:\TestSolution\Utilities\ConsoleApplication1\obj\Debug\Log4netTest.pdb
+D:\TestSolution\Utilities\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

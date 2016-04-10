@@ -1,0 +1,6 @@
+D:\TestSolution\Utilities\Logger\bin\Debug\log4net.dll
+D:\TestSolution\Utilities\Logger\bin\Debug\Utility.dll
+D:\TestSolution\Utilities\Logger\bin\Debug\Utility.pdb
+D:\TestSolution\Utilities\Logger\obj\Debug\Utility.dll
+D:\TestSolution\Utilities\Logger\obj\Debug\Utility.pdb
+D:\TestSolution\Utilities\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
